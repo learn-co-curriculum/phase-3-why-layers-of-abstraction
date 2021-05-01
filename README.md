@@ -1,4 +1,4 @@
-# Increasing Layers of Abstraction
+# Layers of Abstraction
 
 Before we start our journey to Rails, let's pause and discuss the route to get there. We'll first explore two lower-level Ruby web tools: Rack and Sinatra. Rails does *so much* that it might seem like magic. But as a web app developer, we can't rely on magic to see us through. We need to understand everything we're doing at a layer (or two!) deeper than the layer at which we're operating.
 
